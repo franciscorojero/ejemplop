@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+h2 {
+  background-color: aqua;
+}
+p {
+  color: blue;
+}
+#fx {
+  color: yellow;
+  font-size: 18px;
+}
+.centrar {
+  text-align: center;
+}
